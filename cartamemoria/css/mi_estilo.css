@@ -1,0 +1,15 @@
+#contenedor_principal{
+  border-radius: 15px;
+  margin-bottom: 15px;
+  padding-left: 12px;
+  padding-right: 12px;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+  padding-top: 15px;
+  background-color: #E8E5E4;
+  margin-top: 25px;
+  width: 800px;
+  height: 500px;
+}
+#area_juegos{
+	background-color: white;
+}
